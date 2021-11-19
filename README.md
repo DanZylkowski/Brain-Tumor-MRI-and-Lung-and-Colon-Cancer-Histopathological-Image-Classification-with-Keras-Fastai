@@ -24,5 +24,6 @@ For each of the three datasets, the following models were created and evaluated:
 3. A CNN model built on top of the VGG19 model architecture using the fastai library.
 
 ---
+### Results and model download link
 The final fastai VGG19 models achieved validation accuracy scores of 96.8% on the Brain MRI image dataset, and 99.9% validation accuracy on both the Lung and Colon Cancer histopathological image datasets.
 The final fastai VGG19 models can be downloaded from [google drive](https://drive.google.com/drive/folders/1spwKhqzeGi7jbS1I6-myh7Kw5rYkL4sP?usp=sharing).
