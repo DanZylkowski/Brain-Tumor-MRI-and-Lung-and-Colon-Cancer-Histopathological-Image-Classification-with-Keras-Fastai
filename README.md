@@ -22,3 +22,7 @@ For each of the three datasets, the following models were created and evaluated:
 1. A Convolutional neural network (CNN) model built from scratch using Keras.  
 2. A CNN model built on top of the ResNet50 model architecture using the fastai library.
 3. A CNN model built on top of the VGG19 model architecture using the fastai library.
+
+---
+The final fastai VGG19 models achieved validation accuracy scores of 96.8% on the Brain MRI image dataset, and 99.9% validation accuracy on both the Lung and Colon Cancer histopathological image datasets.
+The final fastai VGG19 models can be downloaded from [google drive](https://drive.google.com/drive/folders/1spwKhqzeGi7jbS1I6-myh7Kw5rYkL4sP?usp=sharing).
